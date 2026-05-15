@@ -127,6 +127,7 @@ See the [Showcase](https://lume.land/showcase/) for real examples.
 - 🔥 [Slugify URLs](https://lume.land/plugins/slugify_urls/)
 - 🔥 [URL](https://lume.land/plugins/url/)
 - 🔥 [Check URLs](https://lume.land/plugins/check_urls/)
+- [Readme](https://deno.land/x/lume_readme) to map README files to directory index URLs (GitHub Pages style).
 
 ### Navigation
 
