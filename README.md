@@ -172,12 +172,13 @@ See the [Showcase](https://lume.land/showcase/) for real examples.
 - 🔥 [Extract date](https://lume.land/plugins/extract_date/)
 - [CI](https://deno.land/x/lume_plugin_ci) for CI information.
 
-### Charts
+### Dataviz
 
 - [OI Lume Viz](https://deno.land/x/oi_lume_viz)
 - [Serea](https://github.com/idris-maps/serea)
 - [Mermaid](https://deno.land/x/lume_mermaid_plugin)
 - [Kroki](https://code.fosterhangdaan.com/foster/lume-plugin-kroki)
+- [Maplibre GL JS](https://github.com/ajzeigert/lume-plugin-maplibre)
 
 ### Misc
 
